@@ -46,7 +46,7 @@ public:
             else{
                 TreeNode* succ = succesor(curr);
                 curr->val = succ->val;
-                root->right = deleteNode(root->right, succ->val);
+                curr->right = deleteNode(curr->right, succ->val);
             }
         }
         
