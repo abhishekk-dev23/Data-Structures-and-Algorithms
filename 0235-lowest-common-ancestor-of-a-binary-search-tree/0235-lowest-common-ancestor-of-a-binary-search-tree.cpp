@@ -22,14 +22,10 @@ public:
         else if(root->val < p->val && root->val < q->val){
             rightLCA = Ancestor(root->right, p, q);
         }
-        else if(root->val > p->val && root->val < q->val){
-            leftLCA = Ancestor(root->left, p, q);
-            rightLCA = Ancestor(root->right, p, q);
+        else if((root->val > p->val && root->val < q->val) || (root->val < p->val && root->val > q->val)){
+            return root;
         }
-        else if(root->val < p->val && root->val > q->val){
-            leftLCA = Ancestor(root->left, p, q);
-            rightLCA = Ancestor(root->right, p, q);
-        }
+        
 
         if(leftLCA && rightLCA) return root;
         else if(!leftLCA) return rightLCA;
