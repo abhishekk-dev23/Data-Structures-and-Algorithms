@@ -10,14 +10,32 @@
 
 class Solution {
 public:
-    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+    TreeNode* Ancestor(TreeNode* root, TreeNode* p, TreeNode* q) {
         if(root == NULL) return NULL;
         if(root == p || root == q) return root;
-        TreeNode* leftLCA = lowestCommonAncestor(root->left, p, q);
-        TreeNode* rightLCA = lowestCommonAncestor(root->right, p, q);
+
+        TreeNode* leftLCA = NULL;
+        TreeNode* rightLCA = NULL;
+        if(root->val > p->val && root->val > q->val) {
+            leftLCA = Ancestor(root->left, p, q);
+        }
+        else if(root->val < p->val && root->val < q->val){
+            rightLCA = Ancestor(root->right, p, q);
+        }
+        else if(root->val > p->val && root->val < q->val){
+            leftLCA = Ancestor(root->left, p, q);
+            rightLCA = Ancestor(root->right, p, q);
+        }
+        else if(root->val < p->val && root->val > q->val){
+            leftLCA = Ancestor(root->left, p, q);
+            rightLCA = Ancestor(root->right, p, q);
+        }
 
         if(leftLCA && rightLCA) return root;
         else if(!leftLCA) return rightLCA;
         else return leftLCA;
+    }
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
+        return Ancestor(root, p, q);
     }
 };
