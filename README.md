@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
