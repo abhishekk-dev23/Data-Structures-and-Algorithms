@@ -1,15 +1,29 @@
 class Solution {
 public:
-    vector<int> sortArray(vector<int>& nums) {
-        priority_queue<int, vector<int>, greater<int>> pq;
-        for(auto x : nums){
-            pq.push(x);
+    void heapify(vector<int> &nums, int n, int i) {
+
+        int largest = i;
+        int l = 2 * i + 1;
+        int r = 2 * i + 2;
+        if(l < n && nums[l] > nums[largest]){
+            largest = l;
         }
-        nums.clear();
-        while(!pq.empty()) {
-            int top = pq.top();
-            pq.pop();
-            nums.push_back(top);
+        if(r < n && nums[r] > nums[largest]) {
+            largest = r;
+        }
+        if(largest != i){
+            swap(nums[i], nums[largest]);
+            heapify(nums, n, largest);
+        }
+    }
+    vector<int> sortArray(vector<int>& nums) {
+        int n = nums.size();
+        for(int i=(n/2-1); i>=0; i--) {
+            heapify(nums, n, i);
+        }
+        for (int i = n - 1; i > 0; i--) {
+            swap(nums[0], nums[i]);
+            heapify(nums, i, 0);
         }
         return nums;
     }
