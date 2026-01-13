@@ -1,19 +1,21 @@
 class Solution {
 public:
     void heapify(vector<int> &nums, int n, int i) {
-
-        int largest = i;
-        int l = 2 * i + 1;
-        int r = 2 * i + 2;
-        if(l < n && nums[l] > nums[largest]){
-            largest = l;
-        }
-        if(r < n && nums[r] > nums[largest]) {
-            largest = r;
-        }
-        if(largest != i){
+        while(true){
+            int largest = i;
+            int l = 2 * i + 1;
+            int r = 2 * i + 2;
+            if(l < n && nums[l] > nums[largest]){
+                largest = l;
+            }
+            if(r < n && nums[r] > nums[largest]) {
+                largest = r;
+            }
+            if(largest == i){
+                break;
+            }
             swap(nums[i], nums[largest]);
-            heapify(nums, n, largest);
+            i = largest;
         }
     }
     vector<int> sortArray(vector<int>& nums) {
