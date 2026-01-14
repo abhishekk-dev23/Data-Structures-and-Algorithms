@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1331-rank-transform-of-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
+| [1331-rank-transform-of-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Linked List
