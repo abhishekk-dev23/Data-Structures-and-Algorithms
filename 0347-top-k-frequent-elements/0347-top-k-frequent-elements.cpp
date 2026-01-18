@@ -11,7 +11,7 @@ public:
         for(int i=0; i<nums.size(); i++) {
             mp[nums[i]]++;
         }
-        vector<int> res;
+        nums.clear();
         for(auto v : mp) {
             pq.push({v.second, v.first});
 
@@ -22,9 +22,8 @@ public:
         for(int i=0; i<k; i++) {
             auto top = pq.top();
             pq.pop();
-
-            res.push_back(top.second);
+            nums.push_back(top.second);
         }
-        return res;
+        return nums;
     }
 };
