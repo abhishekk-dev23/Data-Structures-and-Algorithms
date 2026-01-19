@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Linked List
 |  |
@@ -218,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
