@@ -10,6 +10,10 @@ public:
                 break;
             }
         }
+        if(targetIdx == -1) {
+            reverse(nums.begin(), nums.end());
+            return;
+        }
         if(targetIdx != -1) {
             for(int i=n-1; i>targetIdx; i--) {
                 if(nums[i] > nums[targetIdx]){
