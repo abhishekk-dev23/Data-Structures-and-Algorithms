@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0098-validate-binary-search-tree) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
