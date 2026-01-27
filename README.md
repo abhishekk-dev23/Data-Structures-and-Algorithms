@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0506-relative-ranks) |
+| [0540-single-element-in-a-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0912-sort-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
