@@ -131,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 ## Array
 |  |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
