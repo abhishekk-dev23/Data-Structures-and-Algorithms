@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1331-rank-transform-of-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
