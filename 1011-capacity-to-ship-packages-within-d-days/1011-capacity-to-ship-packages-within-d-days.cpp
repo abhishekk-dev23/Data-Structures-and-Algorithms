@@ -9,6 +9,7 @@ public:
             if(sum + weights[i] > cap) {
                 usedDays++;
                 sum = weights[i];
+                if (usedDays > days) return false;
             }
             else{
                 sum += weights[i];
@@ -24,8 +25,8 @@ public:
     int shipWithinDays(vector<int>& weights, int days) {
         int n = weights.size();
         int s = *max_element(weights.begin(), weights.end());
-        int e = sumation(weights);
-        int ans = s;
+        int e = accumulate(weights.begin(), weights.end(), 0);
+        int ans = e;
 
         while(s <= e) {
             int mid = s + (e-s)/2;
