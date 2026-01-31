@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0875-koko-eating-bananas](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1382-balance-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0941-valid-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1046-last-stone-weight](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
