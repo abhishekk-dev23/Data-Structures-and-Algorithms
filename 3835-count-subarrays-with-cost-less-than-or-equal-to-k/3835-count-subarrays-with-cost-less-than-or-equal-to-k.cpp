@@ -15,11 +15,16 @@ public:
             maxq.push_back(r);
 
 
-            while((long long)(nums[maxq.front()] - nums[minq.front()]) * (r - l + 1) > k) {
-                if(maxq.front() == l) maxq.pop_front();
-                if(minq.front() == l) minq.pop_front();
+            while(l <= r) {
+                if((long long)(nums[maxq.front()] - nums[minq.front()]) * (r - l + 1) > k) {
+                    if(maxq.front() == l) maxq.pop_front();
+                    if(minq.front() == l) minq.pop_front();
 
-                l++; 
+                    l++; 
+                }
+                else{
+                    break;
+                }
             }
 
             ans += (r - l + 1);
