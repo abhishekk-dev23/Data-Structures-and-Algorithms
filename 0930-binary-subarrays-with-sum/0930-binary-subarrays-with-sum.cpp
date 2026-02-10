@@ -8,13 +8,8 @@ public:
         mp[0] = 1;
         while(r < nums.size()) {
             sum += nums[r];
-            // if(sum == goal) count++;
-
             int rem = sum - goal;
-            if(mp.find(rem) != mp.end()) {
-                count += mp[rem];
-            }
-
+            count += mp[rem];
             mp[sum]++;
             r++;
         }
