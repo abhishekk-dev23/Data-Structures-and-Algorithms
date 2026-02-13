@@ -7,9 +7,9 @@ public:
         int count = 0;
 
         while(r < nums.size()) {
-            sum += nums[r];
+            sum += (nums[r]%2);
             while(sum > goal) {
-                sum = sum - nums[l];
+                sum = sum - (nums[l]%2);
                 l++;
             }
             count += (r - l + 1);
@@ -18,9 +18,7 @@ public:
         return count;
     }
     int numberOfSubarrays(vector<int>& nums, int k) {
-        for(int i=0; i<nums.size(); i++) {
-            nums[i] = nums[i]%2;
-        }
+        
         int res = solve(nums, k) - solve(nums, k-1);
         return res;
     }
