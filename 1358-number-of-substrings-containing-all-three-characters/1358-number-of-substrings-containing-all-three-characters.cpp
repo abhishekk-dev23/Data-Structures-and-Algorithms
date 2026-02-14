@@ -2,14 +2,17 @@ class Solution {
 public:
     int numberOfSubstrings(string s) {
         int count = 0;
+        int l=0;
         int n = s.size();
-        vector<int> mp(3, -1);
+        vector<int> mp(3, 0);
         
         for(int r=0; r<n; r++){
-            mp[s[r]-'a'] = r;
+            mp[s[r]-'a'] ++;
 
-            if(mp[0] != -1 && mp[1] != -1 && mp[2] != -1) {
-                count = count + (1 + min(mp[0], min(mp[1], mp[2])));
+            while(mp[0] > 0 && mp[1] > 0 && mp[2] > 0) {
+                count = count + (n - r);
+                mp[s[l]-'a']--;
+                l++;
             }
         }
         return count;
