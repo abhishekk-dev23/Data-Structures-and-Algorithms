@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0035-search-insert-position) |
@@ -330,11 +331,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
