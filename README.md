@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
