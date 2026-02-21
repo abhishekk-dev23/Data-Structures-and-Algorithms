@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1707-maximum-xor-with-an-element-from-array) |
 ## Array
 |  |
 | ------- |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1539-kth-missing-positive-number) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -349,4 +351,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1707-maximum-xor-with-an-element-from-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1707-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
