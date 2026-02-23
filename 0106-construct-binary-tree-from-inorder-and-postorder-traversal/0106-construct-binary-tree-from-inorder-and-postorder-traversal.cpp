@@ -11,12 +11,14 @@
  */
 class Solution {
 public:
-    TreeNode* createTree(vector<int> &postorder, int &i, unordered_map<int, int> &mp, int s, int e) {
+    TreeNode* createTree(vector<int>& postorder, int &i, unordered_map<int, int> &mp, int s, int e) {
         if(s > e || i < 0) return NULL;
 
-        int rootVal = postorder[i--];
+        int rootVal = postorder[i];
+        i--;
         TreeNode* root = new TreeNode(rootVal);
         int mid = mp[rootVal];
+
         root->right = createTree(postorder, i, mp, mid+1, e);
         root->left = createTree(postorder, i, mp, s, mid-1);
         
@@ -27,8 +29,7 @@ public:
         for(int i=0; i<inorder.size(); i++) {
             mp[inorder[i]] = i;
         }
-        int postOrderIndex = postorder.size()-1;
-        TreeNode* ans = createTree(postorder, postOrderIndex, mp, 0, inorder.size()-1);
-        return ans;
+        int postIdx = inorder.size() - 1;
+        return createTree(postorder, postIdx, mp, 0, inorder.size()-1);
     }
 };
