@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
 ## Data Stream
 |  |
 | ------- |
