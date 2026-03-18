@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0547-number-of-provinces](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -363,4 +365,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1707-maximum-xor-with-an-element-from-array) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
