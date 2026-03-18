@@ -1,27 +1,43 @@
 class Solution {
-     private:
-    void findDfs(int i, vector<vector<int>>& adj, vector<int> &vis){
+private:
+    void bfs(int i, vector<int> &vis, vector<vector<int>>& adj) {
         vis[i] = 1;
-        
-        for(int j=0; j<adj.size(); j++) {
-            if(adj[i][j] == 1 &&  !vis[j]) {
-                findDfs(j, adj, vis);
+        queue<int> q;
+        q.push(i);
+
+        while(!q.empty()) {
+            int node = q.front();
+            q.pop();
+
+            for(int it: adj[node]) {
+                if(!vis[it]) {
+                    vis[it] = 1;
+                    q.push(it);
+                }
             }
         }
     }
 public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        int V = isConnected.size();
+        int n = isConnected.size();
+        vector<vector<int>> adj(n);
 
-        vector<int> vis(V, 0);
-        int res = 0;
-        
-        for(int i=0; i<V; i++) {
-            if(!vis[i]) {
-                res++;
-                findDfs(i, isConnected, vis);
+        for(int i=0; i<n; i++) {
+            for(int j=0; j<n; j++) {
+                if(i != j && isConnected[i][j] == 1) {
+                    adj[i].push_back(j);
+                    adj[j].push_back(i);
+                }
             }
         }
-        return res;
+        vector<int> vis(n, 0);
+        int cnt = 0;
+        for(int i=0; i<n; i++) {
+            if(!vis[i]) {
+                cnt++;
+                bfs(i, vis, adj);
+            }
+        }
+        return cnt;
     }
 };
