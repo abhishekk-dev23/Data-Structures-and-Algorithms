@@ -5,7 +5,7 @@ public:
         int m = grid[0].size();
 
         queue<vector<int>> q;
-        int vis[n][m];
+        vector<vector<int>> vis(n, vector<int>(m, 0));
         int freshO = 0;
 
         for(int i=0; i<n; i++) {
@@ -47,7 +47,7 @@ public:
             }
         }
         if(cnt != freshO) return -1;
-        
+
         return total_time;
     }
 };
