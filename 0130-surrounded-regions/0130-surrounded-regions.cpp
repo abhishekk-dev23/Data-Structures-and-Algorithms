@@ -37,7 +37,7 @@ public:
         }
         for(int i=0; i<r; i++) {
             for(int j=0; j<c; j++) {
-                if(vis[i][j] != 's') {
+                if(vis[i][j] != 's' && board[i][j] == 'O') {
                     board[i][j] = 'X';
                 }
             }
