@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Breadth-First Search
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1020-number-of-enclaves](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
