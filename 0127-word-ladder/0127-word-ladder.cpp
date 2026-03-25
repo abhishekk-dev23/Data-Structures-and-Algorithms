@@ -1,8 +1,4 @@
 class Solution {
-private:
-    bool isPresent(string word, set<string> &str) {
-        return str.count(word);
-    }
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         int n = wordList.size();
