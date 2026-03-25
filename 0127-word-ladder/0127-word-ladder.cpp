@@ -2,14 +2,12 @@ class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
         int n = wordList.size();
-        set<string> str;
-
-        for(int i=0; i<n; i++) {
-            str.insert(wordList[i]);
-        }
+        set<string> str(wordList.begin(), wordList.end());
+        
         if(!str.count(endWord)) return 0;
         queue<pair<string, int>> q;
         q.push({beginWord, 1});
+        str.erase(beginWord);
 
         while(!q.empty()) {
             auto [s, l] = q.front();
@@ -17,7 +15,7 @@ public:
 
             if(s == endWord) return l;
 
-            // checking all value a-z
+            // checking all value of word from a-z
             for(int i=0; i<s.size(); i++) {
                 char original = s[i];
 
