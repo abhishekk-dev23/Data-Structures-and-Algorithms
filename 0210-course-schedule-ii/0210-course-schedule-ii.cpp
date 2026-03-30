@@ -4,9 +4,8 @@ public:
         int V = numCourses;
         vector<vector<int>> adjL(V);
         for(int i=0; i<prerequisites.size(); i++) {
-            adjL[prerequisites[i][0]].push_back(prerequisites[i][1]);
+            adjL[prerequisites[i][1]].push_back(prerequisites[i][0]);
         }
-        
         vector<int> inDegree(V, 0);
         for(int i=0; i<V; i++) {
             for(auto it: adjL[i]) {
@@ -30,7 +29,6 @@ public:
                 if(inDegree[it] == 0) q.push(it);
             }
         }
-        reverse(topo.begin(), topo.end());
         if(topo.size() == V) return topo;
         return {};
     }
