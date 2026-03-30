@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0215-kth-largest-element-in-an-array) |
