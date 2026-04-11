@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1004-max-consecutive-ones-iii) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
+| [0931-minimum-falling-path-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
