@@ -4,19 +4,22 @@ public:
         int r = triangle.size();
         int c = triangle[r-1].size();
 
-        vector<vector<int>> dp(r, vector<int> (c, -1));
+        vector<int> next(c, 0);
         for(int i=0; i<c; i++) 
-            dp[r-1][i] = triangle[r-1][i];
+            next[i] = triangle[r-1][i];
         
         for(int i=r-2; i>=0; i--) {
+            vector<int> curr(i+1, 0);
+
             for(int j=i; j>=0; j--) {
                 int down = INT_MAX, dig = INT_MAX;
-                down = triangle[i][j] + dp[i+1][j];
-                dig = triangle[i][j] + dp[i+1][j+1];
+                down = triangle[i][j] + next[j];
+                dig = triangle[i][j] + next[j+1];
 
-                dp[i][j] = min(down, dig);
+                curr[j] = min(down, dig);
             }
+            next = curr;
         }
-        return dp[0][0];
+        return next[0];
     }
 };
