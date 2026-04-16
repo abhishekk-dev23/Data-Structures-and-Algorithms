@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Linked List
@@ -365,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 ## Sliding Window
 |  |
 | ------- |
