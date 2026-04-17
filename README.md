@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 ## Simulation
 |  |
 | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Trie
 |  |
