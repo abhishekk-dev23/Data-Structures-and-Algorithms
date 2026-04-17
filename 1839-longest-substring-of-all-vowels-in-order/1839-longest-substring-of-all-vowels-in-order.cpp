@@ -7,6 +7,11 @@ public:
         int count = 1;
 
         for(int i=1; i<n; i++) {
+             if(word[i] != 'a' && word[i] != 'e' && word[i] != 'i' && word[i] != 'o' && word[i] != 'u') {
+                len = 1;
+                count = 1;
+                continue;
+            }
             if(word[i] >= word[i-1]){
                 len++;
                 if(word[i] != word[i-1]) count++;
