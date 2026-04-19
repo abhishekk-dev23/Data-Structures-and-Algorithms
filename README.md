@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1539-kth-missing-positive-number) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2150-find-all-lonely-numbers-in-the-array) |
