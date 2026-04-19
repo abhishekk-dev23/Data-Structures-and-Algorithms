@@ -14,10 +14,8 @@ public:
                 }
                 else{
                     i++;
+                    if(i > j) j = i;
                 }
-            }
-            else{
-                j++;
             }
         }
         return min_dist;
