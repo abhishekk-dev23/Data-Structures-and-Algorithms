@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Trie
 |  |
 | ------- |
