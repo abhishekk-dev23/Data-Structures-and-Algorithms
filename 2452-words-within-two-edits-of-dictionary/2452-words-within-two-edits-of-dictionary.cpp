@@ -9,6 +9,7 @@ private:
                 if(word[j] != str[j]) {
                     cnt++;
                 }
+                if(cnt > 2)  break;
             }
             if(cnt <= 2) return true;
         }
