@@ -9,26 +9,24 @@ public:
             mpp[nums[i]].push_back(i) ;
         }
 
-        for(auto it: mpp) {
-            vector<int> &idx = it.second;
-            int siz = idx.size();
-            if(siz == 1) continue;
+        for(auto& [val, idx]: mpp) {
+            int m = idx.size();
+            if(m == 1) continue;
 
-            vector<long long> pref(siz, 0);
-            pref[0] = idx[0];
-
-            for(int i=1; i<siz; i++) {
-                pref[i] = pref[i-1] + idx[i];
-            }
-
-            for(int i=0; i<siz; i++) {
-                long long left = 0, right = 0;
+            long long total_sum = 0;
+            for(auto it: idx) total_sum += it;
+            
+            long long prefSum = 0;
+            for(int i=0; i<m; i++) {
+                long long currIdx = idx[i];
                 // lft
-                if(i > 0) left = 1LL * i * idx[i] - pref[i-1];
+                long long left = 1LL * i * currIdx - prefSum;
                 // rgt
-                if(i < siz-1) right = (pref[siz-1] - pref[i]) - 1LL*(siz - i - 1) * idx[i];
+                long long suffSum = total_sum - prefSum - currIdx;
+                long long right = suffSum - 1LL*(m - i - 1) * currIdx;
 
-                ans[idx[i]] = left + right;
+                ans[currIdx] = left + right;
+                prefSum += currIdx;
             }
         }
         return ans;
