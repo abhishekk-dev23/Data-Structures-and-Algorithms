@@ -449,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
+| [0796-rotate-string](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -495,4 +496,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
