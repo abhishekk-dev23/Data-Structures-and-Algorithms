@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
