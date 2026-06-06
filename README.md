@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [2574-left-and-right-sum-differences](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2615-sum-of-distances) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2574-left-and-right-sum-differences](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2615-sum-of-distances) |
 ## Recursion
 |  |
