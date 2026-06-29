@@ -259,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
 | [0506-relative-ranks](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
