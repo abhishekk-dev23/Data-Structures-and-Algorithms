@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0033-search-in-rotated-sorted-array) |
