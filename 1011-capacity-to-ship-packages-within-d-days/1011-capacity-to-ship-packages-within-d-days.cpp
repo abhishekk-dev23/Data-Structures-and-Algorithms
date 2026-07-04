@@ -1,38 +1,29 @@
 class Solution {
 public:
-    int checkValidWeight(vector<int>& weights, int days, int cap) {
+    bool miniDays(vector<int>& nums, int day, int mid) {
+        int d = 1;
         int sum = 0;
-        int usedDays = 1;
-        int n = weights.size();
 
-        for(int i=0; i<n; i++) {
-            if(sum + weights[i] > cap) {
-                usedDays++;
-                sum = weights[i];
-                if (usedDays > days) return false;
+        for(int i=0; i<nums.size(); i++) {
+            if(nums[i] + sum > mid) {
+                d++;
+                sum = nums[i];
             }
-            else{
-                sum += weights[i];
+            else {
+                sum += nums[i];
             }
         }
-        return usedDays <= days;
-    }
-    int sumation(vector<int>& weights)  {
-        int sum = 0;
-        for(auto s: weights) sum += s;
-        return sum;
+        return d <= day;
     }
     int shipWithinDays(vector<int>& weights, int days) {
-        int n = weights.size();
         int s = *max_element(weights.begin(), weights.end());
         int e = accumulate(weights.begin(), weights.end(), 0);
-        int ans = e;
+        int ans = s;
 
         while(s <= e) {
-            int mid = s + (e-s)/2;
-            bool isValidWeight = checkValidWeight(weights, days, mid);
+            int mid = s + ( e - s) / 2;
 
-            if(isValidWeight) {
+            if(miniDays(weights, days, mid)) {
                 ans = mid;
                 e = mid - 1;
             }
