@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0055-jump-game](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0063-unique-paths-ii) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0127-word-ladder](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [0208-implement-trie-prefix-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
