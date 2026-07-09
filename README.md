@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
+| [0746-min-cost-climbing-stairs](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 ## String
