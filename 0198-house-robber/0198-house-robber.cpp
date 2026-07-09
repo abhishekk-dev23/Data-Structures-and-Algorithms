@@ -1,19 +1,20 @@
 class Solution {
 public:
-    int rob(vector<int>& nums) {
-        int prev1 = 0; 
-        int prev2 = 0;
-        
-        for(auto& num: nums) {
-            int take = num + prev2;
-            int skip = prev1;
+    int solveRob(int i, vector<int> &dp, vector<int> &nums) {
+        if(i == 0) return nums[0];
+        if(i < 0) return 0;
 
-            int curr = max(take, skip);
-            prev2 = prev1;
-            prev1 = curr;
-        }
-        
-        return prev1;
-        
+        if(dp[i] != -1) return dp[i];
+
+        int take = nums[i] + solveRob(i-2, dp, nums);
+        int skip = solveRob(i-1, dp, nums);
+
+        return dp[i] = max(take, skip);
+    }
+    int rob(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> dp(n, -1);
+
+        return solveRob(n-1, dp, nums);
     }
 };
