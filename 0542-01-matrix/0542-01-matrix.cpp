@@ -1,42 +1,38 @@
 class Solution {
 public:
-    vector<vector<int>> updateMatrix(vector<vector<int>>& mat){
+    vector<vector<int>> updateMatrix(vector<vector<int>>& mat) {
         int r = mat.size();
         int c = mat[0].size();
-                //      {{x, y}, dis}
+        vector<vector<int>> adj(r, vector<int> (c, INT_MAX));
         queue<pair<int, int>> q;
-        vector<vector<int>> res(r, vector<int>(c, INT_MAX));
 
         for(int i=0; i<r; i++) {
             for(int j=0; j<c; j++) {
                 if(mat[i][j] == 0) {
+                    adj[i][j] = 0;
                     q.push({i, j});
-                    res[i][j] = 0;
                 }
             }
         }
-
-        int dir[4][2] = {{+1, 0}, {0, +1}, {-1, 0}, {0, -1}};
+        int dirx[4] = {1, 0, -1, 0};
+        int diry[4] = {0, 1, 0, -1};
 
         while(!q.empty()) {
-            auto node = q.front();
+            auto [x, y] = q.front();
             q.pop();
-            int x = node.first;
-            int y = node.second;
 
             for(int i=0; i<4; i++) {
-                int finX = x + dir[i][0];
-                int finY = y + dir[i][1];
+                int newX = x + dirx[i];
+                int newY = y + diry[i];
 
-                if(finX >= 0 && finX < r && finY >= 0 &&
-                    finY < c) {
-                    if(res[finX][finY] > res[x][y] + 1) {
-                        res[finX][finY] = res[x][y] + 1;
-                        q.push({finX, finY});
+                if(newX >= 0 && newX < r && newY >= 0 && newY < c) {
+                    if(adj[newX][newY] > adj[x][y]+1) {
+                        adj[newX][newY] = adj[x][y] + 1;
+                        q.push({newX, newY});
                     }
                 }
             }
         }
-        return res;
+        return adj;
     }
 };
