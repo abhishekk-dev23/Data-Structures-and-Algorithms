@@ -5,17 +5,18 @@ public:
         if(n == 0) return 0;
         if(n == 1) return arr[0];
 
-        int p1 = 0, p2 = 0;
-        
-        for(int i=0; i<n; i++) {
-            int take = arr[i] + p1;
-            int skip = p2;
+        vector<int> dp1(n);
 
-            int curr = max(take, skip);
-            p1 = p2;
-            p2 = curr;
+        dp1[0] = arr[0];
+        dp1[1] = max(arr[0], arr[1]);
+
+        for(int i=2; i<n; i++) {
+            int take = arr[i] + dp1[i-2];
+            int skip = dp1[i-1];
+
+            dp1[i] = max(take, skip);
         }
-        return p2;
+        return dp1[n-1];
     }
     int rob(vector<int>& nums) {
         int n = nums.size();
