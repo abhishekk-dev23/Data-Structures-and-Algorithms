@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0127-word-ladder](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
