@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0263-ugly-number) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
