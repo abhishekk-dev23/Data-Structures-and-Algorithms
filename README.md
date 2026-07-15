@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0148-sort-list](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0707-design-linked-list](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0707-design-linked-list) |
 ## Stack
