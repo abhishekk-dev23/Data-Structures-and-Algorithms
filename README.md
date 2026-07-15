@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3783-mirror-distance-of-an-integer) |
 ## Bit Manipulation
 |  |
@@ -570,4 +571,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
