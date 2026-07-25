@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 | [1137-n-th-tribonacci-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
+| [1641-count-sorted-vowel-strings](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1641-count-sorted-vowel-strings) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
+| [1641-count-sorted-vowel-strings](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1641-count-sorted-vowel-strings) |
 ## String
 |  |
 | ------- |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0062-unique-paths) |
+| [1641-count-sorted-vowel-strings](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1641-count-sorted-vowel-strings) |
 ## String Matching
 |  |
 | ------- |
