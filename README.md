@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0493-reverse-pairs) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0540-single-element-in-a-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
+| [0633-sum-of-square-numbers](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1641-count-sorted-vowel-strings) |
