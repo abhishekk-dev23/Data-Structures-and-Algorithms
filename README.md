@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1122-relative-sort-array) |
 | [1331-rank-transform-of-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1331-rank-transform-of-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1539-kth-missing-positive-number) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Design
 |  |
