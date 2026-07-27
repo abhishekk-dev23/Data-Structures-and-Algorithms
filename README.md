@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
 | [1137-n-th-tribonacci-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0594-longest-harmonious-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
