@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Divide and Conquer
 |  |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1839-longest-substring-of-all-vowels-in-order) |
