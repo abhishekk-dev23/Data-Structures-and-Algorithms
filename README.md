@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
@@ -459,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1122-relative-sort-array) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2833-furthest-point-from-origin](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -543,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2833-furthest-point-from-origin](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2833-furthest-point-from-origin) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
 | ------- |
