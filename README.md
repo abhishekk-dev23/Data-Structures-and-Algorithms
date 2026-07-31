@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
@@ -420,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0120-triangle) |
+| [0174-dungeon-game](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0392-is-subsequence) |
