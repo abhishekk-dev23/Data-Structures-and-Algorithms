@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2615-sum-of-distances](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2615-sum-of-distances) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3731-find-missing-elements](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2615-sum-of-distances) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3731-find-missing-elements](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 | [3905-multi-source-flood-fill](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3905-multi-source-flood-fill) |
 ## Linked List
 |  |
