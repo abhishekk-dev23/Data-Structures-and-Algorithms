@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0130-surrounded-regions) |
+| [0137-single-number-ii](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
