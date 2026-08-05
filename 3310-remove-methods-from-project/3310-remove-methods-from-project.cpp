@@ -7,6 +7,24 @@ private:
             if(!vis[x]) dfs(x, vis, adj);
         }
     }
+
+    void bfs(int k, vector<int> &vis, vector<vector<int>> &adj) {
+        vis[k] = 1;
+        queue<int> q;
+        q.push(k);
+
+        while(!q.empty()) {
+            int ele = q.front();
+            q.pop();
+
+            for(auto x : adj[ele]) {
+                if(!vis[x]) {
+                    q.push(x);
+                    vis[x] = 1;
+                }
+            }
+        }
+    }
 public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
         int e = invocations.size();
@@ -16,7 +34,8 @@ public:
         }
 
         vector<int> vis(n, 0);
-        dfs(k, vis, adj);
+        // dfs(k, vis, adj);
+        bfs(k, vis, adj);
 
         bool isRemove = true;
         for(int i=0; i<e; i++) {
