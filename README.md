@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [1382-balance-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1382-balance-a-binary-search-tree) |
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
+| [3310-remove-methods-from-project](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1020-number-of-enclaves) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3310-remove-methods-from-project) |
 | [3905-multi-source-flood-fill](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3905-multi-source-flood-fill) |
 ## Binary Search Tree
 |  |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0785-is-graph-bipartite) |
+| [3310-remove-methods-from-project](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
