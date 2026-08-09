@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0633-sum-of-square-numbers) |
+| [0877-stone-game](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1248-count-number-of-nice-subarrays) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1641-count-sorted-vowel-strings) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0930-binary-subarrays-with-sum) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1137-n-th-tribonacci-number) |
 | [1641-count-sorted-vowel-strings](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1641-count-sorted-vowel-strings) |
@@ -641,4 +644,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/1757-recyclable-and-low-fat-products) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
