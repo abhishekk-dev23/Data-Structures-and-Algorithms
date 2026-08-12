@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2062-count-vowel-substrings-of-a-string](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2150-find-all-lonely-numbers-in-the-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2615-sum-of-distances](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2615-sum-of-distances) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3731-find-missing-elements](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2476-closest-nodes-queries-in-a-binary-search-tree](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2476-closest-nodes-queries-in-a-binary-search-tree) |
 | [2574-left-and-right-sum-differences](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/2574-left-and-right-sum-differences) |
 | [2615-sum-of-distances](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/2615-sum-of-distances) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/obishake/Data-Structures-and-Algorithms/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/abhishekk-dev23/Data-Structures-and-Algorithms/tree/master/3731-find-missing-elements) |
